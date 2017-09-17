@@ -5,7 +5,7 @@ This is a very simple app which is built on golang and veujs
 ##  Setup
 
 ```
-  $ go get git@github.com:namKolo/learning-go.git
+  $ git clone git@github.com:namKolo/learning-go.git
   $ cd `go list -f '{{.Dir}}' github.com/namKolo/learning-go/simple-chat`
   $ go get
   $ go run *.go
