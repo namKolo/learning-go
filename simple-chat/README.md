@@ -1,3 +1,14 @@
 ##  Simple Chat App
 
 This is a very simple app which is built on golang and veujs
+
+##  Setup
+
+```
+  $ go get git@github.com:namKolo/learning-go.git
+  $ cd `go list -f '{{.Dir}}' github.com/namKolo/learning-go/simple-chat`
+  $ go get
+  $ go run *.go
+```
+
+To use the app, open http://localhost:8000/ in your browser.
